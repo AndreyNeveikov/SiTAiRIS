@@ -1,1 +1,2 @@
 This file after changes
+This file before merge
