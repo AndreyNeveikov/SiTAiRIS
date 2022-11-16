@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalog name="Магазин ноутбуков">
+	<store shop="5-ый элемент">
+		<product_id id="1">
+			<manufacturer>Lenovo</manufacturer>
+			<pc_model>IdeaPad 3 15ALC6 (82KU00AYRK)</pc_model>
+			<processor_model>AMD Ryzen 3 5300U</processor_model>
+			<RAM>8</RAM>
+			<SSD>256</SSD>
+			<HDD>1</HDD>
+			<description>Он сочетает высокую производительность процессоров AMD Ryzen™ серии 5000 H и интеллектуальные функции, повышающие удобство работы.
+			</description>
+			<price>2499.00</price>
+		</product_id>
+
+		<product_id id="2">
+			<manufacturer>Apple</manufacturer>
+			<pc_model>MacBook Air 13</pc_model>
+			<processor_model>M1</processor_model>
+			<RAM>8</RAM>
+			<SSD>256</SSD>
+			<HDD>1</HDD>
+			<description>С появлением чипа Apple M1 наш самый тонкий и лёгкий ноутбук полностью преобразился. Центральный процессор теперь работает до 3,5 раза быстрее.
+			</description>
+			<price>5199.00</price>
+		</product_id>
+
+		<product_id id="3">
+			<manufacturer>Acer</manufacturer>
+			<pc_model>Aspire 3 A315-34-C786</pc_model>
+			<processor_model>Intel Celeron N4020</processor_model>
+			<RAM>4</RAM>
+			<SSD>128</SSD>
+			<HDD>1</HDD>
+			<description>Благодаря компактной, легкой и тонкой конструкции алюминиевого корпуса Acer Aspire 3 A315-34-C786 станет идеальным помощником для работы.
+			</description>
+			<price>1199.00</price>
+		</product_id>
+
+		<product_id id="4">
+			<manufacturer>HP</manufacturer>
+			<pc_model>14s-fq0022ur</pc_model>
+			<processor_model>AMD Athlon Gold 3150U</processor_model>
+			<RAM>8</RAM>
+			<SSD>256</SSD>
+			<HDD>1</HDD>
+			<description>Этот тонкий и легкий ноутбук удобно брать с собой. Экран с 2 миллионами пикселей позволяет наслаждаться насыщенным, кристально чистым изображением.
+			</description>
+			<price>1956.76</price>
+		</product_id>
+	</store>
+</catalog>
